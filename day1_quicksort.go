@@ -20,7 +20,6 @@ func SolutionBinaryGap(N int) int {
 		}
 
 		n = n / 2
-		count2++
 	}
 	return num
 }
